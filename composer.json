@@ -1,0 +1,15 @@
+{
+    "name": "hexlet/code",
+    "description": "First hexlet project Mind Games",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Анастасия Маслова",
+            "email": "maslava30@gmail.com"
+        }
+    ],
+    "require": {},
+    "bin": [
+	"bin/brain-games"
+    ]
+}
